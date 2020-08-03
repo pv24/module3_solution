@@ -1,0 +1,27 @@
+*{
+   box-sizing: border-box; 
+}
+.c{
+    text-align: center;
+}
+h1{
+   
+    font-size:3em ;
+}
+
+.navbar-brand{
+    font-size: 4em;
+}
+.con{
+    font-size: 1.7em;
+    background-color: aqua;
+    margin:0 15px 0px 15px;
+    padding-top: 0px;
+}
+h4{
+    margin-bottom: 5px;
+    font-size: 1.5em;
+}
+#nav-list{
+    background-color: aliceblue;
+}
